@@ -1,0 +1,102 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+     "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "menu",
+      "split-image-text",
+      "header-bar",
+      "hero-banner",
+      "horizontal-vertical",
+      "page-title",
+      "tabs",
+      "breadcrumb",
+      "sciexColumns",
+      "media-grid",
+      "sciex-columns",
+      "page-subnav"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "header-bar",
+    "components": [
+      "headerbarItem"
+    ]
+  },
+  {
+    "id": "horizontal-vertical",
+    "components": [
+      "vertical-card",
+      "title-description"
+    ]
+  },
+  {
+    "id": "menu",
+    "components": [
+      "menuItem"
+    ]
+  },
+  {
+    "id": "menuItem",
+    "components": [
+      "subItem"
+    ]
+  },
+  {
+    "id": "sciex-columns",
+    "components": [
+      "sciex-card"
+    ]
+  },
+  {
+    "id": "tabs",
+    "components": [
+      "tabItem"
+    ]
+  },
+  {
+    "id": "media-grid",
+    "components": [
+      "media-grid-item"
+    ]
+  },
+  {
+    "id": "page-subnav",
+    "components": [
+      "page-subnav-item"
+    ]
+  }
+]
